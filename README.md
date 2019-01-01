@@ -1,5 +1,5 @@
 # Front-end-Template
-Initial project for create front-end with bootstrap-sass and GULP
+A boilerplate for Bootstrap, SCSS and Gulp
 
 # Quick Start
 - `npm install`
